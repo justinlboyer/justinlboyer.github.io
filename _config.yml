@@ -61,7 +61,7 @@ education:
 coursera:
    profileurl: https://www.coursera.org/user/i/fa49b322df743296f38637fba421a608
    courses:
-     - Title: Machine Learning
+     - title: Machine Learning
        link: https://www.coursera.org/learn/machine-learning/home
        optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/ml/large-icon.png?auto=format&dpr=1&w=80&h=80&fit=fill&bg=FFF
        date: December, 2016
@@ -74,7 +74,7 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - justinlboyer.shinyapps.io/avalanche/
+ - justinlboyer/avalanche
 #Mobile apps section is optional
 apps:
  - name: Avalanche Forecaster
