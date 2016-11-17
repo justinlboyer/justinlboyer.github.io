@@ -6,6 +6,9 @@ name: Justin Boyer
 # Build settings
 markdown: kramdown
 
+#Introduction
+introBlurb: Hi
+
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
