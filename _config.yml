@@ -7,7 +7,8 @@ name: Justin Boyer
 markdown: kramdown
 
 #Introduction
-introBlurb: Hi
+IntroBubble:
+  -introBlurb: Hi
 
 #User specific content
 #Links that will appear in the navbar
