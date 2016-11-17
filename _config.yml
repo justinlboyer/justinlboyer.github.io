@@ -6,15 +6,12 @@ name: Justin Boyer
 # Build settings
 markdown: kramdown
 
-#Introduction
-#IntroBubble:
-#  -introBlurb: Hi
 
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
-# - title: Blog
-#   url: http://automateddeveloper.blogspot.com/
+ - title: Personal Website
+   url: https://sites.google.com/site/justinlboyer/
  - title: GitHub
    url: github.com/justinlboyer/avalanche
  - title: LinkedIn
@@ -29,6 +26,7 @@ skills:
  - Graph Theory
  - Differential Equations
  - SQL
+ - Collaborative Problem Solving
 
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
