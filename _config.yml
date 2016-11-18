@@ -61,7 +61,7 @@ coursera:
    courses:
      - title: Machine Learning
        link: https://www.coursera.org/learn/machine-learning/home
-       optionalimage: https://datasciencelab.files.wordpress.com/2013/11/ml.png
+       optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/ml/small-icon.png
        date: December, 2016
        
 #    - title: Functional Programming Principles in Scala
