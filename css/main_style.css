@@ -2,6 +2,8 @@ body {
 	background: url('/img/background.jpg');
 	padding-top: 40px;
 	color: rgb(24, 24, 24);
+	background-repeat:no-repeat;
+	background-position: center center;
 }
 
 html, body {
