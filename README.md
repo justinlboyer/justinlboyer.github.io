@@ -1,3 +1,12 @@
+# Forked from RobRinds
+
+Great template for getting a nice little cv going, many thanks.  I changed many things, you should fork it from him.
+
+## Note: change intro in _includes 
+
+
+
+
 # NerdAbility - A CV Generator
 A Jekyll based CV page generator based on the user profile page on Nerdability.
 
