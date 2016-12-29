@@ -20,9 +20,9 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - R
- - Modelling
- - Analysis
  - Matlab
+ - Modeling
+ - Analysis
  - Machine Learning
  - Differential Equations
  - Optimization
