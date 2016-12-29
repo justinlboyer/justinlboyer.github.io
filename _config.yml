@@ -39,7 +39,7 @@ roles:
    start: 2008
    end: Ongoing
    employer: University of Utah
-   description: I solve math problems, ranging from fluid flow to analyzing what type of graph configurations admit solutions.  I use a range of techniques, but I must admit I often approximate the problems using Matlab, R, and my new love Python in order to get an intuition.
+   description: I solve math problems, ranging from fluid flow to analyzing the type graph configurations which admit solutions.  I use a range of techniques, but I must admit in order to get an intuition I often approximate the problems using Matlab, R, and my new love Python.
    
 #Education is required
 education:
