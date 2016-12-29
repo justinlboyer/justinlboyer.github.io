@@ -39,7 +39,7 @@ roles:
    start: 2008
    end: Ongoing
    employer: University of Utah
-   description: I solve math problems, ranging from fluid flow to analyzing the type graph configurations which admit solutions.  I use a range of techniques, but I must admit in order to get an intuition I often approximate the problems using Matlab, R, and my new love Python.
+   description: I solve math problems, ranging from fluid flow to analyzing the type of graph configurations which admit solutions.  I use a range of techniques, but I must admit, in order to get an intuition I often approximate the problems using Matlab, R, and my new love Python.
    
 #Education is required
 education:
@@ -84,8 +84,8 @@ apps:
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>R, Matlab</strong>: I am experienced in R and Matlab. Prior to using R and Matlab to build models, I tutored students learning these languages for 4 years. <br/><br/>
-   <strong>Data Analysis</strong>: My Data Analysis experience stems from coursework in probability and statistics further supplemented by MOOC's in statistics and machine learning.<br/><br/>
+   <strong>Data Analysis</strong>: My Data Analysis experience has foundations in coursework in probability and statistics further supplemented by MOOC's in machine learning and professional development in Data Analysis.  I have applied what I learned during my 2+ years teaching by using data and my own analysis to provide targeted remediation.  Using my analysis I was able to increase the targeted students scores by over 10%.<br/><br/>
    <strong>Numerical Analysis</strong>: I have completed year long coursework in numerical analysis.  In this course we analysised many numerical methods, such as Regression, Finite Element, and Fast Fourier Transform.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Java, Android, Google Analytics, and Teaching Methodoligies. 
+   I have also gained experience and knowledge of other technologies from several side projects and the research which I have undertaken in my free time, including Java, Android, Google Analytics, and Teaching Methodologies. 
    
    
