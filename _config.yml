@@ -81,6 +81,10 @@ github:
  - justinlboyer/avalanche
 #Mobile apps section is optional
 apps:
+ - name: Persistent Homology Using Rips
+   platform: R
+   url: https://justinlboyer.shinyapps.io/persistent_homology_using_rips/
+   description: An interactive demonstation of a topological data analysis technique for detecting connected components and tunnels.
  - name: Avalanche Forecaster
    platform: R
    url: https://justinlboyer.shinyapps.io/avalanche/
@@ -89,7 +93,7 @@ apps:
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>R, Matlab</strong>: I am experienced in R and Matlab. Prior to using R and Matlab to build models, I tutored students learning these languages for 4 years. <br/><br/>
-   <strong>Data Analysis</strong>: My Data Analysis experience has foundations in coursework in probability and statistics further supplemented by MOOC's in machine learning and professional development in Data Analysis.  I have applied what I learned during my 2+ years teaching by using data and my own analysis to provide targeted remediation.  Using my analysis I was able to increase the targeted students scores by over 10%.<br/><br/>
+   <strong>Data Analysis</strong>: My Data Analysis experience has foundations in coursework in probability and statistics further supplemented by MOOC's in machine learning and professional development in Data Analysis.  I have applied what I learned during my 2+ years teaching by using data and my own analysis to provide targeted remediation.  Using my analysis I was able to increase the targeted students scores by over 10%.  Currently I have performed data analyst contract work while finishing my Masters.  In this role, I collaborated with the president and the marketing team to identify customer insights, verify them with statistical tests and provide summary and recommendations to management.  Additionally, I had to clean and wrangle the data prior to my analysis, which included validating the data set, uncovering and removing the fraudulent data.<br/><br/>
    <strong>Numerical Analysis</strong>: I have completed year long coursework in numerical analysis.  In this course we analysised many numerical methods, such as Regression, Finite Element, and Fast Fourier Transform.<br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and the research which I have undertaken in my free time, including Java, Android, Google Analytics, and Teaching Methodologies. 
    
